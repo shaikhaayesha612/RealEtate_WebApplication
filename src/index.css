@@ -11,3 +11,116 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mandatory{
+  color: red;
+  font-weight: 500;
+}
+
+.btn1{
+  background-color: rgb(253, 129, 129);
+  border-radius: 20px;
+}
+
+.heading1, 
+.heading2,
+.heading3,
+.heading4,
+.heading5,
+.heading8{
+  font-weight: bolder;
+  font-size: 50px;
+  font-family:cursive;
+}
+
+.heading6,
+.heading7{
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.heading1{
+  color: rgba(160, 253, 116, 0.89);
+  text-shadow: 0 0 7px rgb(153, 151, 153);
+}
+
+.heading2{
+  color: rgb(248, 235, 220);
+  text-shadow: 0 0 7px red;
+}
+
+.heading3{
+  color: rgb(195, 247, 8);
+  text-shadow: 0 0 7px rgb(27, 83, 39);
+}
+
+.heading4, 
+.heading6{
+  color: blueviolet;
+  text-shadow: 0 0 7px rgb(12, 235, 243);
+}
+
+.heading5{
+  color: rgb(7, 247, 215);
+  text-shadow: 0 0 7px red;
+}
+
+.heading7{
+  color: rgb(243, 11, 88);
+  text-shadow: 0 0 7px rgb(234, 10, 241);
+}
+
+.heading8{
+  color: rgb(240, 35, 87);
+  text-shadow: 0 0 7px rgb(70, 107, 129);
+}
+
+.sub_heading1,
+.sub_heading2{
+  font-weight: bold;
+  font-size: 25px;
+  font-family:cursive;
+}
+
+.sub_heading1{
+  color: rgb(248, 235, 220);
+  text-shadow: 0 0 7px red;
+}
+
+.sub_heading2{
+  color: rgb(15, 243, 213);
+  text-shadow: 0 0 7px rgb(22, 18, 18);
+}
+
+.sub_heading3{
+  font-weight: bold;
+  font-size: 20px;
+  font-family:cursive;
+  color: rgb(122, 245, 228);
+  text-shadow: 0 0 7px rgb(22, 18, 18);
+}
+
+.sub_heading4{
+  color: rgb(133, 47, 167);
+}
+
+.bg1{
+  background-color: rgb(199, 245, 162);
+}
+
+.btn2{
+  background-color: rgb(73, 43, 43);
+  color: white;
+  padding: 12px 50px;
+  border-radius: 30px;
+  text-decoration: none;
+}
+
+.btn3{
+  background-color: black;
+  color: white;
+  padding: 15px 60px;
+  border-radius: 30px;
+  text-decoration: none;
+  box-shadow: 0 0 10px white;
+}
